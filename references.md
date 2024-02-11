@@ -1,1 +1,1 @@
-muj text main1
+muj text my-res
